@@ -1,5 +1,13 @@
-# Wechat-post-template
-One-line command for generating wechat post
+# WechatGen
+One-line command for generating wechat post from markdown.
+**Note:** Special markup for author and proofreader.
+
+At the beginning of your post, add:
+```
+作者：XXX { .author}
+作者：XXX { .proofread}
+```
+
 ## Requirements
 - pandoc
 
