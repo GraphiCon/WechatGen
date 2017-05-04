@@ -6,7 +6,7 @@ One-line command for generating wechat post from markdown.
 At the beginning of your post, add:
 ```
 作者：XXX { .author}
-作者：XXX { .proofread}
+审校：XXX { .proofread}
 ```
 
 ## Requirements
