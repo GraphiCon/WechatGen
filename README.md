@@ -16,4 +16,4 @@ Type in terminal:
 ```bash
 ${PATH_TO_WECHATGEN}/wechatgen.sh yourmarkdown.md
 ```
-Please see the simple example in /example folder.
+Please see the simple example in /examples folder.
