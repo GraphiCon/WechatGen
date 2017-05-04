@@ -1,5 +1,6 @@
 # WechatGen
 One-line command for generating wechat post from markdown.
+
 **Note:** Special markup for author and proofreader.
 
 At the beginning of your post, add:
