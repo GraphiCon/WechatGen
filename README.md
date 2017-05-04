@@ -2,6 +2,7 @@
 One-line command for generating wechat post
 ## Requirements
 - pandoc
+
 For installing pandoc, please see the instructions here: [pandoc installing](http://pandoc.org/installing.html)
 On MacOS, just
 ```bash
