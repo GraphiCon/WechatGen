@@ -3,7 +3,7 @@ One-line command for generating wechat post from markdown.
 
 **Note:** Special markup for author and proofreader.
 
-At the beginning of your post, add:
+At the beginning of your markdown post, add:
 ```
 作者：XXX { .author}
 审校：XXX { .proofread}
@@ -23,7 +23,12 @@ On Arch linux, just
 pacman -S pandoc
 ```
 ## Usage
+First, make the script executable:
 Type in terminal:
+```bash
+chmod 755 ${PATH_TO_WECHATGEN}/wechatgen.sh
+```
+Then run the script:
 ```bash
 ${PATH_TO_WECHATGEN}/wechatgen.sh yourmarkdown.md
 ```
